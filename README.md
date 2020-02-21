@@ -1,2 +1,6 @@
 # fast-web-app
-Aplikasi Sistem Login Sederhana dengan CodeIgniter dan Bootstrap
+Aplikasi Sistem Login Sederhana
+
+## Tools yang digunakan
+
+- [Code Igniter 3]
