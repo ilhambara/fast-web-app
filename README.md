@@ -1,5 +1,5 @@
-# fast-web-app
-Aplikasi Sistem Login Sederhana
+# fast-web-app (reloaded in progress)
+Aplikasi Sistem Login Sederhana dengan CodeIgniter dan Bootstrap
 
 ### Tools yang digunakan
 
@@ -7,7 +7,6 @@ Aplikasi Sistem Login Sederhana
 - Bootstrap 4
 - SB Admin 2
 - MySql
-- dan dihosting di Webhostapp
 
-Silakan kunjungi websitenya disini : http://fastwebprogramming.000webhostapp.com/
+Silakan kunjungi websitenya disini : [segera hadir](#)
 
