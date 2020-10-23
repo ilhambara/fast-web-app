@@ -104,7 +104,7 @@ class Auth extends CI_Controller
             $this->db->insert('user', $data);
             $this->session->set_flashdata(
                 'message',
-                '<div class="alert alert-success" role="alert">Your account has been created. Please login now!</div>'
+                '<div class="alert alert-success" role="alert">Your account has been created. Please login!</div>'
             );
             redirect('auth');
         }
@@ -118,7 +118,7 @@ class Auth extends CI_Controller
 
         $this->session->set_flashdata(
             'message',
-            '<div class="alert alert-success" role="alert">Logout Successfully!</div>'
+            '<div class="alert alert-success" role="alert">You have just logout!</div>'
         );
         redirect('auth');
     }
