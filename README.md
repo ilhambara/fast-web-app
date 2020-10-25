@@ -1,5 +1,5 @@
 # fast-web-app (reloaded in progress)
-Aplikasi Sistem Login Sederhana dengan CodeIgniter dan Bootstrap
+Aplikasi _User Authentication_ dengan CodeIgniter dan Bootstrap
 
 ### Tools yang digunakan
 
